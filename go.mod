@@ -1,3 +1,3 @@
-module github.com/your-org/backend/shared/app-error
+module github.com/garyjdn/go-apperror
 
-go 1.20
+go 1.24.0
